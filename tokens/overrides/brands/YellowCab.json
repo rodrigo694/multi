@@ -1,0 +1,48 @@
+{
+  "colors": {
+    "onAccent": {
+      "default": {
+        "value": "{colors.black}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "100": {
+        "value": "{colors.yellow.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{colors.yellow.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{colors.yellow.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{colors.yellow.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{colors.yellow.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{colors.yellow.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{colors.yellow.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{colors.yellow.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{colors.yellow.900}",
+        "type": "color"
+      }
+    }
+  }
+}

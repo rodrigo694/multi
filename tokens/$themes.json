@@ -1,0 +1,91 @@
+[
+  {
+    "id": "6be618dc1cae3215f1793c74e72f3095e4de3527",
+    "name": "Light",
+    "group": "Theme",
+    "selectedTokenSets": {
+      "theme": "enabled",
+      "core/colors": "source",
+      "core/dimensions": "source",
+      "light/primitives": "enabled",
+      "core/defaults": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "28983d638284cad3d6ad7965ac4046e1f48f6588",
+    "name": "Dark",
+    "group": "Theme",
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/dimensions": "source",
+      "theme": "enabled",
+      "dark/primitives": "enabled",
+      "core/defaults": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b9044e7127c42c03f6ced3054e403dd2a3a6e235",
+    "name": "RedPlanet",
+    "group": "Brands",
+    "selectedTokenSets": {
+      "overrides/brands/RedPlanet": "enabled",
+      "core/colors": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7ce36e29dfe536b40115230cf3b7dcfa5f532f8c",
+    "name": "YellowCab",
+    "group": "Brands",
+    "selectedTokenSets": {
+      "overrides/brands/YellowCab": "enabled",
+      "core/colors": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "862c48f6d4aac40bc7321c14176641fb0680af23",
+    "name": "Default",
+    "group": "Contrast",
+    "selectedTokenSets": {},
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "810ccf8572276285bf4d977c84bffe6d3d31f42d",
+    "name": "High",
+    "group": "Contrast",
+    "selectedTokenSets": {
+      "overrides/high-contrast": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "90a417d0e209e018c8f593deeecd0b144f82f7d6",
+    "name": "English",
+    "group": "Language",
+    "selectedTokenSets": {
+      "language/english": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "7538db8536529ce614d6e1b1739a84bb0b0cda6b",
+    "name": "Japanese",
+    "group": "Language",
+    "selectedTokenSets": {
+      "language/japanese": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b94284ff4f70e130e2ce2c86a9b920351f7f14c7",
+    "name": "German",
+    "group": "Language",
+    "selectedTokenSets": {
+      "language/german": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

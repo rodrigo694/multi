@@ -1,7 +1,17 @@
 {
   "tokenSetOrder": [
-    "global",
-    "light",
-    "dark"
+    "core/colors",
+    "core/high-contrast",
+    "core/dimensions",
+    "core/defaults",
+    "light/primitives",
+    "dark/primitives",
+    "language/english",
+    "language/japanese",
+    "language/german",
+    "theme",
+    "overrides/brands/RedPlanet",
+    "overrides/brands/YellowCab",
+    "overrides/high-contrast"
   ]
 }
